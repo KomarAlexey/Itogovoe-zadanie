@@ -7,3 +7,6 @@
 // [“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
 // [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 // [“Russia”, “Denmark”, “Kazan”] → []
+
+string[] stringArray = new string[4] { "Hello", ":)", "три", "четыре" };
+string[] miniArray = new string[stringArray.Length];
