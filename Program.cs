@@ -10,3 +10,5 @@
 
 string[] stringArray = new string[4] { "Hello", ":)", "три", "четыре" };
 string[] miniArray = new string[stringArray.Length];
+int letter_counter = 0;
+int size = 3;
